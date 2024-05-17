@@ -1,0 +1,32 @@
+body{
+    background-color: ghostwhite;
+}
+h1 {
+    font-family: "Brygada 1918", serif;
+    font-optical-sizing: auto;
+    font-weight: auto;
+    font-style: normal;
+    margin: 0%;
+  }
+  section {
+    margin: 20%;
+  }
+  section >div {
+    background-color: rgba(0, 0, 0, 0.699);
+  }
+  section >div >div > img {
+    margin: 10px;
+    background-size: cover;
+    width: 90%;
+    border: 5px solid white;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+  }
+  section>div>div {
+    color: white;
+    text-align: center;
+    margin-block: 0px;
+  }
+  p {
+    margin: 0%;
+  }
